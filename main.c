@@ -1,18 +1,8 @@
 #include <stdio.h>
 #include <string.h>
-//#include <stdlib.h>
 #include "IO_handling.h"
 #include "common.h"
-
 	
-
-
-/*char sTeam_A [Longest_Country_Name];
-	char sTeam_B [Longest_Country_Name];
-	unsigned char ucTeam_A_Goals;
-	unsigned char ucTeam_B_Goals;
-	unsigned int ucTimeStamp;
-	bool bGame_Active;*/
 
 int main()
 {	
