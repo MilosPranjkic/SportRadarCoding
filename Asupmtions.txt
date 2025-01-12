@@ -2,3 +2,5 @@ For the max nuber of games I can take ether usual number of teams in the World C
 No need to check if the cointries that are added realy exist (example if country named asdf is added this will be allowed), chack for this can also be added but not part of this solution.
 Only alowed caracters in team names are letters (both small and capital), if anytiong else is entered it will trigger an error
 It is not allowed to enter same team as team a and team b
+
+new
